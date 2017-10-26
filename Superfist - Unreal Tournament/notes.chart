@@ -1,6 +1,6 @@
 [Song]
 {
-	Name = "SuperFist - Unreal Tournament"
+	Name = "SuperFist"
 	Artist = "Alexander Brandon"
 	Charter = "Stickheadz32"
 	Offset = 0
@@ -9,7 +9,7 @@
 	Difficulty = 6
 	PreviewStart = 34.00
 	PreviewEnd = 47.00
-	Genre = "Rock"
+	Genre = "Techno Metal"
 	MediaType = "cd"
 	MusicStream = "song.ogg"
 }
@@ -530,9 +530,10 @@
 	25632 = N 0 48
 	25728 = N 1 96
 	25872 = N 2 96
-	26016 = N 2 0
-	26016 = S 2 1824
-	26064 = N 3 288
+	26016 = N 3 0
+	26112 = N 2 0
+	26112 = S 2 1824
+	26160 = N 3 144
 	26400 = N 2 192
 	26640 = N 1 0
 	26640 = N 5 0
@@ -540,7 +541,7 @@
 	26688 = N 1 144
 	26688 = N 5 144
 	26880 = N 4 240
-	27168 = N 3 240
+	27168 = N 2 240
 	27456 = N 0 144
 	27648 = N 0 0
 	27696 = N 1 912
