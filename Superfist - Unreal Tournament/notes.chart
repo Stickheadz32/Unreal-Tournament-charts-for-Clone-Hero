@@ -3,7 +3,7 @@
 	Name = "SuperFist"
 	Artist = "Alexander Brandon"
 	Charter = "Stickheadz32"
-	Offset = 0
+	Offset = 0.05
 	Resolution = 192
 	Player2 = bass
 	Difficulty = 6
