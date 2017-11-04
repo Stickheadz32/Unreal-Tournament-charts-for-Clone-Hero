@@ -11,7 +11,7 @@
 	PreviewEnd = 52.00
 	Genre = "Techno Metal"
 	MediaType = "cd"
-	MusicStream = "song.ogg"
+    MusicStream = "song.ogg"
 }
 [SyncTrack]
 {
