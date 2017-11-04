@@ -8,8 +8,8 @@
 	Player2 = bass
 	Difficulty = 7
 	PreviewStart = 34.00
-	PreviewEnd = 76.00
-	Genre = "Metal"
+	PreviewEnd = 52.00
+	Genre = "Techno Metal"
 	MediaType = "cd"
 	MusicStream = "song.ogg"
 }
@@ -21,7 +21,6 @@
 	7680 = TS 4
 	18432 = TS 2
 	19968 = TS 4
-	46848 = TS 3
 	47424 = TS 2
 	47568 = B 300000
 	47616 = B 150000
@@ -63,7 +62,9 @@
 {
 	1536 = N 0 192
 	1728 = N 1 192
+	1728 = N 5 192
 	1920 = N 2 2688
+	1920 = N 5 2688
 	4608 = N 4 3072
 	4608 = S 2 3072
 	5376 = N 3 2304
