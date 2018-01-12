@@ -9,8 +9,8 @@
   Resolution = 192
   Player2 = bass
   Difficulty = 7
-  PreviewStart = 20
-  PreviewEnd = 50
+  PreviewStart = 25
+  PreviewEnd = 55
   Genre = "Techno"
   MediaType = "cd"
   MusicStream = "song.ogg"
