@@ -16,6 +16,7 @@
   MusicStream = "song.ogg"
   GuitarStream = "guitar.ogg"
   BassStream = "bass.ogg"
+  DrumStream = "drums.ogg"
 }
 [SyncTrack]
 {
